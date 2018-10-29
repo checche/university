@@ -1,0 +1,27 @@
+,PDBID,Ligand,phosphorylation,Mutation,Taxonomy
+0,1YVJ,"4ST, DTV",Yes,"E895R, Y980X, Y981X",Homo sapiens
+1,3LXK,MI1,No,C1048S,Homo sapiens
+2,3LXL,IZA,No,C1048S,Homo sapiens
+3,3PJC,PJC,No,None,Homo sapiens
+4,3ZC6,"CL, PEG, PG4, VFC",Yes,"C1040S, C1048S",Homo sapiens
+5,3ZEP,"1NX, GOL",Yes,"C1040S, C1048S",Homo sapiens
+6,4HVD,"933, PHU",No,"C1040S, C1048S",Homo sapiens
+7,4HVG,19Q,No,"C1040S, C1048S",Homo sapiens
+8,4HVH,19R,No,"C1040S, C1048S",Homo sapiens
+9,4HVI,19S,No,"C1040S, C1048S",Homo sapiens
+10,4I6Q,"1DT, PHU",No,"C1040S, C1048S",Homo sapiens
+11,4QPS,37Q,No,"D949A, C1040S, C1048S",Homo sapiens
+12,4QT1,3C9,No,"C1040S, C1048S",Homo sapiens
+13,4RIO,3QX,No,"C811S, C1040S, C1048S",Homo sapiens
+14,4V0G,G9B,Yes,"R894G, Q895E, C1039G, C1048S","Homo sapiens,Homo sapiens"
+15,4V0G,G9B,Yes,"R894G, Q895E, C1039G, C1048S","Homo sapiens,Homo sapiens"
+16,4Z16,4LH,Yes,"Q896P, S897E",Homo sapiens
+17,5LWM,"79T, EDO, PHU",No,"D949A, C1040S, C1048S",Homo sapiens
+18,5LWN,"79R, 79S, EDO, PHU",No,"D949A, C1040S, C1048S",Homo sapiens
+19,5TOZ,"7H4, SO4",No,C1048S,Homo sapiens
+20,5TTS,7KU,No,C1048S,Homo sapiens
+21,5TTU,"7KV, SO4",No,C1048S,Homo sapiens
+22,5TTV,7KX,No,C1048S,Homo sapiens
+23,5VO6,9J4,No,"C1040S, C1048S",Homo sapiens
+24,5W86,9YV,Yes,"C1040S, C1048S",Homo sapiens
+25,5WFJ,9Z4,No,"C811S, C1040S, C1048S",Homo sapiens

@@ -1,0 +1,4 @@
+makePDBlist.ipynb RCSBのHPで検索して出てきたpdbデータについて必要な情報を収集しcsvファイルに出力します。
+get_pdb.ipynb 入力したリストに書かれたpdbファイルをダウンロードします。
+calc_b_factor_iter.ipynb 指定したフォルダ内のpdbファイルの温度因子平均値を計算します。
+get_rw_pdbs.ipynb 指定したフォルダ内のpdbファイルの温度因子平均を計算し、平均以上の温度因子を持った水分子を削除したpdbファイルを新たに出力します。
